@@ -1,6 +1,3 @@
-%% Assignment 2 | Kshitij Pisal | 16QM30001
-% (date of submission - 9th April 2019)
-
 %% Improting files
 bigram = importdata('bigram-probabilities.txt'); % In the data given in the question, this is the first array of 27*27 numbers 
 moving_time = importdata('inter-key-intervals.txt'); % In the data given in the question, this is the second array of 27*27 numbers 
