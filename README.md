@@ -9,3 +9,5 @@ To run the code on your system, you need to download the code and the two newly 
 
 # About the code
 The code is a file created using MATLAB.
+
+# Screen Shot
